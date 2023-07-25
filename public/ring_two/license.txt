@@ -1,0 +1,11 @@
+Model Information:
+* title:	AU-53412-V4
+* source:	https://sketchfab.com/3d-models/au-53412-v4-e20f584ff39248f4b53e41f55dbd6605
+* author:	automicgoldapril (https://sketchfab.com/automicgoldapril)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AU-53412-V4" (https://sketchfab.com/3d-models/au-53412-v4-e20f584ff39248f4b53e41f55dbd6605) by automicgoldapril (https://sketchfab.com/automicgoldapril) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
