@@ -1,0 +1,11 @@
+Model Information:
+* title:	AU-40995 Eng V3
+* source:	https://sketchfab.com/3d-models/au-40995-eng-v3-058d46a9b90e48028cf2ac932b96302e
+* author:	automicgoldapril (https://sketchfab.com/automicgoldapril)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AU-40995 Eng V3" (https://sketchfab.com/3d-models/au-40995-eng-v3-058d46a9b90e48028cf2ac932b96302e) by automicgoldapril (https://sketchfab.com/automicgoldapril) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
